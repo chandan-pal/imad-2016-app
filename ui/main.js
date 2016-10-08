@@ -1,1 +1,5 @@
-console.log('Loaded!');
+$(document).ready(function () {
+	
+	alert('YAY!');
+	
+});
